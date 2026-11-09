@@ -9,8 +9,6 @@ Przeanalizowałam odpowiedzi **297 osób pracujących w branży Data/IT**, badaj
 
 ## Najważniejsze odkrycie
 
-![Dopasowanie modelu pracy a satysfakcja](assets/remote-work-insight.png)
-
 **Osoby pracujące w preferowanym modelu deklarują średnio o 1,21 punktu wyższą satysfakcję zawodową** (7,30 vs 6,09 w skali 1-10).
 
 ## Co jeszcze pokazały dane?
